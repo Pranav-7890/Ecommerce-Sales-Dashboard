@@ -8,6 +8,7 @@ The goal was to identify which product sub-categories drive the most profit, und
 
 ## 📊 Dashboard Preview
 **Figure 1:** Main Sales & Profitability Overview.
+![Dashboard Preview](image_screenshort.png)
 
 ## 🚀 Key Insights & Findings
 
